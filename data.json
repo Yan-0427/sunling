@@ -1,19 +1,5 @@
 [
   {
-  "id": 1,
-  "title": "Dribbble",
-  "title_zh": "Dribbble 设计社区",
-  "source": "Dribbble",
-  "link": "https://dribbble.com/",
-  "tags": ["design", "inspiration", "portfolio", "UI/UX", "community"],
-  "tags_zh": ["设计", "灵感", "作品集", "UI/UX", "社区"],
-  "date": "2024-01-01",
-  "summary_en": "Dribbble is one of the world's leading online communities for designers. It serves as a platform for creative professionals to showcase their work, discover design inspiration, build portfolios, and connect with peers or potential clients. Covering areas such as UI/UX, branding, illustration, motion graphics, and product design, Dribbble has become both a source of inspiration and a professional networking hub for the design industry.",
-  "summary_zh": "Dribbble 是全球领先的设计师在线社区之一。它为创意工作者提供了展示作品、寻找设计灵感、建立作品集以及与同行或潜在客户联系的平台。内容涵盖 UI/UX、品牌设计、插画、动效、产品设计等多个领域，是设计行业灵感获取与职业社交的重要平台。",
-  "best_quote_en": "Dribbble is where designers gain inspiration, feedback, community, and jobs — and where brands gain design talent.",
-  "best_quote_zh": "Dribbble 是设计师获取灵感、反馈、社区与工作机会的平台，也是品牌寻找设计人才的地方。"
-},
-  {
     "id": 1,
     "title": "What is 1000h.org?",
     "title_zh": "什么是1000h.org？",
@@ -27,63 +13,46 @@
     "best_quote_en": "1000 hours is a magic number. It's enough time to go from knowing nothing to being pretty good at almost anything.",
     "best_quote_zh": "1000小时是一个神奇的数字。这段时间足够让你从一无所知变得在几乎任何事情上都相当出色。"
 },
-  {
+{
   "id": 1,
-  "title": "Three data views included with TimeTrack | Where time goes",
-  "title_zh": "TimeTrack 自带的三种数据显示视图",
-  "source": "时间记录实践手册: Where time goes / TuJunjie",
-  "link": "https://shijian.tujunjie.com/ch02/ch02.14",
-  "tags": ["time tracking", "software", "data visualization"],
-  "tags_zh": ["时间记录", "软件", "数据可视化"],
-  "date": "2020-05-24",
-  "summary_en": "This chapter introduces the three built-in data views in TimeTrack: pie chart, column chart, and calendar view. It describes how each view works, where to access them in the app, and what kinds of insights they provide (e.g. proportion of time spent, distribution of activity across days/weeks).",
-  "summary_zh": "本节介绍了 TimeTrack 自带的三种数据显示视图：饼图、柱状图/堆叠柱状图和日历视图。讲了在 App 中如何打开这些视图，以及它们各自提供的洞见，比如用时间比例看各项活动所占、活动在一周／一月中的分布情况等。:contentReference[oaicite:0]{index=0}",
-  "best_quote_en": "The data view that comes with TimeTrack provides basic visualization. There are three main types of charts built into TimeTrack: Pie chart, Column chart, Calendar view. :contentReference[oaicite:1]{index=1}",
-  "best_quote_zh": "TimeTrack 自带的数据显示视图提供基本可视化。有三种主要类型的图表：饼图、柱状图、日历视图。:contentReference[oaicite:2]{index=2}"
-},
-{
-  "id": 2,
-  "title": "You can look at the data from these 6 angles | Where time goes",
-  "title_zh": "你可以从这六个角度来看你的数据",
-  "source": "时间记录实践手册: Where time goes / TuJunjie",
-  "link": "https://shijian.tujunjie.com/ch04/ch04.34",
-  "tags": ["time tracking", "data analysis", "productivity"],
-  "tags_zh": ["时间记录", "数据分析", "效率"],
-  "date": "2020-05-24",
-  "summary_en": "This section outlines six different perspectives for analyzing your time data: (1) number of activities, (2) total duration of activities, (3) activity rate (ratio of count to duration), (4) volatility / fluctuations, (5) seasonal or cyclical changes, (6) efficiency peaks and troughs. It suggests using tools like Pivot Tables in Excel to break down and visualize these dimensions to discover deeper patterns and potential improvements. :contentReference[oaicite:3]{index=3}",
-  "summary_zh": "这一节提出六个角度来分析你的时间数据：（1）活动次数；（2）活动总时长；（3）活动比率（次数 vs 时长）；（4）波动性/变化；（5）季节性或周期性变化；（6）效率的高峰与低谷。建议用 Excel 数据透视表等工具来细分这些维度，挖掘更深的规律与改进空间。:contentReference[oaicite:4]{index=4}",
-  "best_quote_en": "With the data in hand, what perspectives can we observe and analyze in practice? Six angles of reference are provided here. :contentReference[oaicite:5]{index=5}",
-  "best_quote_zh": "有了这些数据，我们在实践中可以观察与分析哪些视角？这里提供六个参考角度。:contentReference[oaicite:6]{index=6}"
-},
-{
-  "id": 3,
-  "title": "It’s a time record and an important diary. | Where time goes",
-  "title_zh": "这不仅是时间记录，也是一本要事日记",
-  "source": "时间记录实践手册: Where time goes / TuJunjie",
-  "link": "https://shijian.tujunjie.com/ch04/ch04.31",
-  "tags": ["time tracking", "reflection", "diary"],
-  "tags_zh": ["时间记录", "反思", "日记"],
-  "date": "2020-06-08",
-  "summary_en": "This chapter proposes expanding time tracking beyond simple logs into a type of 'important-diary'. It suggests identifying the longest single activity each month, adding notes to recall what was happening then, marking tasks or events that feel significant (with ★), and then evaluating the quality of a time period by how many such 'important things' occurred. Over time, this builds up a record of big annual accomplishments. :contentReference[oaicite:7]{index=7}",
-  "summary_zh": "本章建议将时间记录稍稍扩展：不仅仅是记录，更成为一种“要事日记”。方法包括：每月找出单次持续时间最长的活动，回忆当时在做什么并补充备注；标记你认为很重要的任务或事件（加★）；然后通过这些“要事”的数量来判断一段时间的质量。长期下去，就能累积成年度的大事记录。:contentReference[oaicite:8]{index=8}",
-  "best_quote_en": "The time record never exists in isolation. With a little expansion, he could have spawned another product, such as an \"important diary\". :contentReference[oaicite:9]{index=9}",
-  "best_quote_zh": "时间记录从来都不是单独存在的。稍加扩展他就能衍生出另一个产品形态，比如“要事日记”。:contentReference[oaicite:10]{index=10}"
+  "title": "时间去哪儿了：柳比歇夫时间记录法实践手册",
+  "title_zh": "时间去哪儿了：柳比歇夫时间记录法实践手册",
+  "source": "涂俊杰 / TuJunjie",
+  "link": "https://shijian.tujunjie.com/list",
+  "tags": ["time tracking", "self‐quantification", "productivity", "aTimeLogger", "habit"],
+  "tags_zh": ["时间记录", "自我量化", "效率", "aTimeLogger", "习惯养成"],
+  "date": "2019-09-(电子书上线日)，最近更新时间 2024-07-14", 
+  "summary_en": "This is a detailed practical manual by TuJunjie about using the Lyubishev time-logging method (‘柳比歇夫时间统计法’). The author shares his journey of using tools like aTimeLogger Pro to record every activity, classify them, analyze the data, and change behavior over time. The book is structured into six chapters plus prefatory material: before you start, software operations, advanced techniques, data analysis, worked examples, and additional content. It emphasizes establishing a cycle of record → categorize → analyze → change, and shows how precise, honest tracking can lead to awareness, better habits, and stronger control over one’s time.",
+  "summary_zh": "这是涂俊杰为践行柳比歇夫时间统计法所写的实践手册，介绍他如何用工具（如 aTimeLogger Pro）完整记录自己的所有活动，对这些活动归类、分析数据，并在此基础上改变自己的行为习惯。全书结构包含六大章节：开始之前、软件操作、进阶技巧、数据分析、示例讲解、更多内容，以及前言与目录。核心是“记录-归类-分析-改变”这一正向循环，通过真实且诚实的追踪时间，人可以获得觉察、养成习惯、增强对时间的掌控力。",
+  "best_quote_en": "“Every person carries a time bank (ATM) with them, withdrawing 86,400 seconds a day — the difference between people is how they use those 80,000 seconds: whether racing against every second, or letting them slip away.”",
+  "best_quote_zh": "“每个人都随身携带一所时间银行（ATM），每天取出86400秒，而人与人的不同，就在于如何利用这8万秒，你是分秒必争，还是无所事事？”"
 },
   {
   "id": 1,
-  "title": "站酷 ZCOOL — 设计师互动平台",
-  "title_zh": "站酷 — 设计师互动平台",
-  "source": "站酷 ZCOOL",
-  "link": "https://www.zcool.com.cn/",
-  "tags": ["design", "inspiration", "portfolio", "creative community", "视觉艺术"],
-  "tags_zh": ["设计", "灵感", "作品展示", "创意社区", "视觉艺术"],
+  "title": "Easy Photoshop Birthday Card Tutorial & 20 Creative Gift Ideas",
+  "title_zh": "简单 Photoshop 生日贺卡教程与 20 个创意礼物主意",
+  "source": "StockVault Blog",
+  "link": "https://blog.stockvault.net/freebies/easy-photoshop-birthday-card-tutorial-20-creative-gift-ideas/",
+  "tags": ["tutorial", "photoshop", "birthday", "freebies", "gift ideas"],
+  "tags_zh": ["教程", "Photoshop", "生日", "免费资源", "礼物创意"],
   "date": "",
-  "summary_en": "ZCOOL is a leading Chinese online platform where designers, illustrators, photographers and visual creators share their work, find inspiration, interact with peers, and offer or discover design services. It features curated “recommended” content, portfolios, case studies, videos, competitions, events, and educational resources. The site serves both as an inspiration hub and a marketplace of creative talents and design services.",
-  "summary_zh": "站酷是中国知名的设计师与视觉创作者社区，插画师、摄影师、平面设计师等可在平台上展示作品、获取灵感、交流互动，同时也能提供或发现设计服务。网站包括“推荐”内容精选、作品集、案例分享、视频内容、设计活动、竞赛，以及教育课程等，是创意与设计领域的灵感源泉与人才/服务市场。",
-  "best_quote_en": "ZCOOL — where designers discover better design and share what inspires them.",
-  "best_quote_zh": "站酷 — 设计师在这里发现更好的设计，并分享令自己动心的灵感。"
+  "summary_en": "This article offers a step‐by‐step Photoshop tutorial to design a birthday card using a free stock image, applying typography, effects (drop shadows, color overlays, blending modes), and exporting the result. It also shares 20 creative gift ideas—many handmade, sentimental, or experiential—to delight friends or loved ones. The resource includes 5 free stock birthday‐themed images to use in your designs.",
+  "summary_zh": "本文提供一个逐步的 Photoshop 教程，用免费素材制作生日贺卡，包括选择素材、添加文字、使用阴影/颜色叠加/混合模式等特效，以及导出成电子邮件卡片或打印使用。同时还列出 20 个创意礼物主意，其中大多偏向手作、有情感价值或体验类礼物。文章还提供 5 张与生日相关的免费图片，可用于设计素材。",
+  "best_quote_en": "“Every day, millions of people celebrate their birthdays! ... In this post, we’ll review an easy birthday card tutorial and 20 creative gift ideas so you can celebrate those you love.” :contentReference[oaicite:0]{index=0}",
+  "best_quote_zh": "“每天，数百万人在庆祝他们的生日！……在这篇文章中，我们将回顾一个简单的生日卡片教程和 20 个创意礼物主意，让你能更好地庆祝你所爱的人。” :contentReference[oaicite:1]{index=1}"
+},
+  {
+  "id": 1,
+  "title": "谷歌靠 Nano Banana 超越 ChatGPT，登顶苹果 App Store 第一",
+  "title_zh": "谷歌靠 Nano Banana 超越 ChatGPT，登顶苹果 App Store 第一",
+  "source": "36氪",
+  "link": "https://36kr.com/p/3467642676303239",
+  "tags": ["AI", "Google", "Nano Banana", "Gemini", "图像生成", "应用排行榜"],
+  "tags_zh": ["人工智能","谷歌","Nano Banana","Gemini","图像生成","应用排名"],
+  "date": "2025-09-15",
+  "summary_en": "This article reports that Google, through its image-generation tool Nano Banana, has surpassed ChatGPT in the Apple App Store rankings, with Gemini reaching the top position in multiple countries. Launched in early August, Nano Banana has edited over 500 million images and been widely praised by users and tech leaders. The piece provides various creative prompt-use cases, explores Google's strategy of embedding Gemini across its ecosystem (Search, Chrome, YouTube, etc.), and views this achievement as more than just numbers — a sign of shifting influence and momentum in the AI product landscape.",
+  "summary_zh": "本文报道谷歌借助其图像生成工具 Nano Banana 在苹果 App Store 排行榜上超越 ChatGPT，旗下 Gemini 应用在多个国家（包括美国、印度、加拿大、摩洛哥等）登顶。自 8 月推出以来，Nano Banana 已被用于编辑超过 5 亿张图片，并受到用户和科技领导者的广泛好评。文章展示了多个创意提示词案例，分析了谷歌将 Gemini 嵌入搜索、Chrome、YouTube 等核心应用的战略，并认为此举不仅是数字上的胜利，也标志着 AI 产品格局中影响力与话语权正在发生变化。",
+  "best_quote_en": "\"Natural language use is maybe the most complicated and systematic lifelong task the brain ever encounters.\"",
+  "best_quote_zh": "“掌握并使用自然语言，是最健脑的项目。”"
 }
-
-
-
 ]
