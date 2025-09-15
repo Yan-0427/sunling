@@ -12,6 +12,78 @@
   "summary_zh": "Dribbble 是全球领先的设计师在线社区之一。它为创意工作者提供了展示作品、寻找设计灵感、建立作品集以及与同行或潜在客户联系的平台。内容涵盖 UI/UX、品牌设计、插画、动效、产品设计等多个领域，是设计行业灵感获取与职业社交的重要平台。",
   "best_quote_en": "Dribbble is where designers gain inspiration, feedback, community, and jobs — and where brands gain design talent.",
   "best_quote_zh": "Dribbble 是设计师获取灵感、反馈、社区与工作机会的平台，也是品牌寻找设计人才的地方。"
+},
+  {
+    "id": 1,
+    "title": "What is 1000h.org?",
+    "title_zh": "什么是1000h.org？",
+    "source": "1000h.org",
+    "link": "https://1000h.org/what.html",
+    "tags": ["1000 hours", "learning project", "skill development"],
+    "tags_zh": ["1000小时", "学习项目", "技能发展"],
+    "date": "",
+    "summary_en": "This page explains the concept of 1000h.org, which focuses on the idea of dedicating 1000 hours to learning and mastering a specific skill. It emphasizes the value of consistent practice over time, encouraging individuals to commit to deliberate learning efforts to achieve proficiency in their chosen area.",
+    "summary_zh": "该页面阐释了1000h.org的理念，其核心是专注于投入1000小时学习并掌握特定技能。它强调了长期持续练习的价值，鼓励人们通过有意识的学习努力，在所选领域达到熟练水平。",
+    "best_quote_en": "1000 hours is a magic number. It's enough time to go from knowing nothing to being pretty good at almost anything.",
+    "best_quote_zh": "1000小时是一个神奇的数字。这段时间足够让你从一无所知变得在几乎任何事情上都相当出色。"
+},
+  {
+  "id": 1,
+  "title": "Three data views included with TimeTrack | Where time goes",
+  "title_zh": "TimeTrack 自带的三种数据显示视图",
+  "source": "时间记录实践手册: Where time goes / TuJunjie",
+  "link": "https://shijian.tujunjie.com/ch02/ch02.14",
+  "tags": ["time tracking", "software", "data visualization"],
+  "tags_zh": ["时间记录", "软件", "数据可视化"],
+  "date": "2020-05-24",
+  "summary_en": "This chapter introduces the three built-in data views in TimeTrack: pie chart, column chart, and calendar view. It describes how each view works, where to access them in the app, and what kinds of insights they provide (e.g. proportion of time spent, distribution of activity across days/weeks).",
+  "summary_zh": "本节介绍了 TimeTrack 自带的三种数据显示视图：饼图、柱状图/堆叠柱状图和日历视图。讲了在 App 中如何打开这些视图，以及它们各自提供的洞见，比如用时间比例看各项活动所占、活动在一周／一月中的分布情况等。:contentReference[oaicite:0]{index=0}",
+  "best_quote_en": "The data view that comes with TimeTrack provides basic visualization. There are three main types of charts built into TimeTrack: Pie chart, Column chart, Calendar view. :contentReference[oaicite:1]{index=1}",
+  "best_quote_zh": "TimeTrack 自带的数据显示视图提供基本可视化。有三种主要类型的图表：饼图、柱状图、日历视图。:contentReference[oaicite:2]{index=2}"
+},
+{
+  "id": 2,
+  "title": "You can look at the data from these 6 angles | Where time goes",
+  "title_zh": "你可以从这六个角度来看你的数据",
+  "source": "时间记录实践手册: Where time goes / TuJunjie",
+  "link": "https://shijian.tujunjie.com/ch04/ch04.34",
+  "tags": ["time tracking", "data analysis", "productivity"],
+  "tags_zh": ["时间记录", "数据分析", "效率"],
+  "date": "2020-05-24",
+  "summary_en": "This section outlines six different perspectives for analyzing your time data: (1) number of activities, (2) total duration of activities, (3) activity rate (ratio of count to duration), (4) volatility / fluctuations, (5) seasonal or cyclical changes, (6) efficiency peaks and troughs. It suggests using tools like Pivot Tables in Excel to break down and visualize these dimensions to discover deeper patterns and potential improvements. :contentReference[oaicite:3]{index=3}",
+  "summary_zh": "这一节提出六个角度来分析你的时间数据：（1）活动次数；（2）活动总时长；（3）活动比率（次数 vs 时长）；（4）波动性/变化；（5）季节性或周期性变化；（6）效率的高峰与低谷。建议用 Excel 数据透视表等工具来细分这些维度，挖掘更深的规律与改进空间。:contentReference[oaicite:4]{index=4}",
+  "best_quote_en": "With the data in hand, what perspectives can we observe and analyze in practice? Six angles of reference are provided here. :contentReference[oaicite:5]{index=5}",
+  "best_quote_zh": "有了这些数据，我们在实践中可以观察与分析哪些视角？这里提供六个参考角度。:contentReference[oaicite:6]{index=6}"
+},
+{
+  "id": 3,
+  "title": "It’s a time record and an important diary. | Where time goes",
+  "title_zh": "这不仅是时间记录，也是一本要事日记",
+  "source": "时间记录实践手册: Where time goes / TuJunjie",
+  "link": "https://shijian.tujunjie.com/ch04/ch04.31",
+  "tags": ["time tracking", "reflection", "diary"],
+  "tags_zh": ["时间记录", "反思", "日记"],
+  "date": "2020-06-08",
+  "summary_en": "This chapter proposes expanding time tracking beyond simple logs into a type of 'important-diary'. It suggests identifying the longest single activity each month, adding notes to recall what was happening then, marking tasks or events that feel significant (with ★), and then evaluating the quality of a time period by how many such 'important things' occurred. Over time, this builds up a record of big annual accomplishments. :contentReference[oaicite:7]{index=7}",
+  "summary_zh": "本章建议将时间记录稍稍扩展：不仅仅是记录，更成为一种“要事日记”。方法包括：每月找出单次持续时间最长的活动，回忆当时在做什么并补充备注；标记你认为很重要的任务或事件（加★）；然后通过这些“要事”的数量来判断一段时间的质量。长期下去，就能累积成年度的大事记录。:contentReference[oaicite:8]{index=8}",
+  "best_quote_en": "The time record never exists in isolation. With a little expansion, he could have spawned another product, such as an \"important diary\". :contentReference[oaicite:9]{index=9}",
+  "best_quote_zh": "时间记录从来都不是单独存在的。稍加扩展他就能衍生出另一个产品形态，比如“要事日记”。:contentReference[oaicite:10]{index=10}"
+},
+  {
+  "id": 1,
+  "title": "站酷 ZCOOL — 设计师互动平台",
+  "title_zh": "站酷 — 设计师互动平台",
+  "source": "站酷 ZCOOL",
+  "link": "https://www.zcool.com.cn/",
+  "tags": ["design", "inspiration", "portfolio", "creative community", "视觉艺术"],
+  "tags_zh": ["设计", "灵感", "作品展示", "创意社区", "视觉艺术"],
+  "date": "",
+  "summary_en": "ZCOOL is a leading Chinese online platform where designers, illustrators, photographers and visual creators share their work, find inspiration, interact with peers, and offer or discover design services. It features curated “recommended” content, portfolios, case studies, videos, competitions, events, and educational resources. The site serves both as an inspiration hub and a marketplace of creative talents and design services.",
+  "summary_zh": "站酷是中国知名的设计师与视觉创作者社区，插画师、摄影师、平面设计师等可在平台上展示作品、获取灵感、交流互动，同时也能提供或发现设计服务。网站包括“推荐”内容精选、作品集、案例分享、视频内容、设计活动、竞赛，以及教育课程等，是创意与设计领域的灵感源泉与人才/服务市场。",
+  "best_quote_en": "ZCOOL — where designers discover better design and share what inspires them.",
+  "best_quote_zh": "站酷 — 设计师在这里发现更好的设计，并分享令自己动心的灵感。"
 }
+
+
 
 ]
