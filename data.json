@@ -1,62 +1,6 @@
 [
   {
   "id": 1,
-  "title": "Three data views included with TimeTrack | Where time goes",
-  "title_zh": "TimeTrack 自带的三种数据显示视图",
-  "source": "时间记录实践手册: Where time goes / TuJunjie",
-  "link": "https://shijian.tujunjie.com/ch02/ch02.14",
-  "tags": ["time tracking", "software", "data visualization"],
-  "tags_zh": ["时间记录", "软件", "数据可视化"],
-  "date": "2020-05-24",
-  "summary_en": "This chapter introduces the three built-in data views in TimeTrack: pie chart, column chart, and calendar view. It describes how each view works, where to access them in the app, and what kinds of insights they provide (e.g. proportion of time spent, distribution of activity across days/weeks).",
-  "summary_zh": "本节介绍了 TimeTrack 自带的三种数据显示视图：饼图、柱状图/堆叠柱状图和日历视图。讲了在 App 中如何打开这些视图，以及它们各自提供的洞见，比如用时间比例看各项活动所占、活动在一周／一月中的分布情况等。:contentReference[oaicite:0]{index=0}",
-  "best_quote_en": "The data view that comes with TimeTrack provides basic visualization. There are three main types of charts built into TimeTrack: Pie chart, Column chart, Calendar view. :contentReference[oaicite:1]{index=1}",
-  "best_quote_zh": "TimeTrack 自带的数据显示视图提供基本可视化。有三种主要类型的图表：饼图、柱状图、日历视图。:contentReference[oaicite:2]{index=2}"
-},
-{
-  "id": 2,
-  "title": "You can look at the data from these 6 angles | Where time goes",
-  "title_zh": "你可以从这六个角度来看你的数据",
-  "source": "时间记录实践手册: Where time goes / TuJunjie",
-  "link": "https://shijian.tujunjie.com/ch04/ch04.34",
-  "tags": ["time tracking", "data analysis", "productivity"],
-  "tags_zh": ["时间记录", "数据分析", "效率"],
-  "date": "2020-05-24",
-  "summary_en": "This section outlines six different perspectives for analyzing your time data: (1) number of activities, (2) total duration of activities, (3) activity rate (ratio of count to duration), (4) volatility / fluctuations, (5) seasonal or cyclical changes, (6) efficiency peaks and troughs. It suggests using tools like Pivot Tables in Excel to break down and visualize these dimensions to discover deeper patterns and potential improvements. :contentReference[oaicite:3]{index=3}",
-  "summary_zh": "这一节提出六个角度来分析你的时间数据：（1）活动次数；（2）活动总时长；（3）活动比率（次数 vs 时长）；（4）波动性/变化；（5）季节性或周期性变化；（6）效率的高峰与低谷。建议用 Excel 数据透视表等工具来细分这些维度，挖掘更深的规律与改进空间。:contentReference[oaicite:4]{index=4}",
-  "best_quote_en": "With the data in hand, what perspectives can we observe and analyze in practice? Six angles of reference are provided here. :contentReference[oaicite:5]{index=5}",
-  "best_quote_zh": "有了这些数据，我们在实践中可以观察与分析哪些视角？这里提供六个参考角度。:contentReference[oaicite:6]{index=6}"
-},
-{
-  "id": 3,
-  "title": "It’s a time record and an important diary. | Where time goes",
-  "title_zh": "这不仅是时间记录，也是一本要事日记",
-  "source": "时间记录实践手册: Where time goes / TuJunjie",
-  "link": "https://shijian.tujunjie.com/ch04/ch04.31",
-  "tags": ["time tracking", "reflection", "diary"],
-  "tags_zh": ["时间记录", "反思", "日记"],
-  "date": "2020-06-08",
-  "summary_en": "This chapter proposes expanding time tracking beyond simple logs into a type of 'important-diary'. It suggests identifying the longest single activity each month, adding notes to recall what was happening then, marking tasks or events that feel significant (with ★), and then evaluating the quality of a time period by how many such 'important things' occurred. Over time, this builds up a record of big annual accomplishments. :contentReference[oaicite:7]{index=7}",
-  "summary_zh": "本章建议将时间记录稍稍扩展：不仅仅是记录，更成为一种“要事日记”。方法包括：每月找出单次持续时间最长的活动，回忆当时在做什么并补充备注；标记你认为很重要的任务或事件（加★）；然后通过这些“要事”的数量来判断一段时间的质量。长期下去，就能累积成年度的大事记录。:contentReference[oaicite:8]{index=8}",
-  "best_quote_en": "The time record never exists in isolation. With a little expansion, he could have spawned another product, such as an \"important diary\". :contentReference[oaicite:9]{index=9}",
-  "best_quote_zh": "时间记录从来都不是单独存在的。稍加扩展他就能衍生出另一个产品形态，比如“要事日记”。:contentReference[oaicite:10]{index=10}"
-},
-  {
-  "id": 1,
-  "title": "什么最健脑？",
-  "title_zh": "什么最健脑？",
-  "source": "1000 小时",
-  "link": "https://1000h.org/what.html",
-  "tags": ["健脑","自然语言","学习","语言能力"],
-  "tags_zh": ["健脑","自然语言","学习","语言能力"],
-  "date": "",
-  "summary_en": "The article argues that the most effective brain training is mastering and using natural language. While many invest heavily in physical fitness and the tools that assist it, for cognitive health and long-term brain power the author believes that language—its increasing vocabulary, complexity, usage—is the most obvious and universal cognitive exercise. Natural language ability opens up unlimited growth, unlike many physical benchmarks that have natural limits. Better language skills correlate with wider white matter connections and greater gray matter volume, which boosts efficiency, learning capacity, multitasking, and resistance to aging.",
-  "summary_zh": "本文认为，最有效的“健脑”方式是掌握并使用自然语言。很多人在身体健康方面投入巨大，无论是训练方式、装备还是工具，但在认知健康与大脑能力方面，语言——它的词汇量、复杂性与使用——才是真正显而易见且普适的锻炼方式。自然语言能力增长无限，相比于许多身体素质有天花板的目标；更强的语言能力与白质连接更广、灰质体积与密度更大相关，这能提高大脑各部分的协同效率、学习能力、多任务处理能力，并延缓衰老。",
-  "best_quote_en": "Natural language use is maybe the most complicated and systematic lifelong task the brain ever encounters. It is obvious that mastering and using natural language is the most brain‐training project. And unlike many fitness goals, linguistic ability has no upper limit. You can make daily communication more effective, write books, learn and use many languages… there is no end.",
-  "best_quote_zh": "自然语言的使用，也许是所有人终生所能遇见的最复杂且又最系统的大脑工作任务。掌握并使用自然语言，是最健脑的项目。无论是日常沟通、写书、学多种语言……都可以无限提升。"
-},
-  {
-  "id": 1,
   "title": "Dribbble",
   "title_zh": "Dribbble 设计社区",
   "source": "Dribbble",
@@ -69,4 +13,5 @@
   "best_quote_en": "Dribbble is where designers gain inspiration, feedback, community, and jobs — and where brands gain design talent.",
   "best_quote_zh": "Dribbble 是设计师获取灵感、反馈、社区与工作机会的平台，也是品牌寻找设计人才的地方。"
 }
+
 ]
