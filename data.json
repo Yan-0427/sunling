@@ -1,16 +1,44 @@
 【
 {
     "id": 1,
-    "title": "Everyone's Guide for Starting Up on Wechat Network",
-    "title_zh": "微信互联网平民创业（初稿）",
-    "source": "李笑来",
-    "link": "https://github.com/xiaolai/everyones-guide-for-starting-up-on-wechat-network",
-    "tags": ["WeChat Internet", "civilian entrepreneurship", "video account"],
-    "tags_zh": ["微信互联网", "平民创业", "视频号"],
-    "date": "2020-08-22",
-    "summary_en": "This article discusses the huge potential of WeChat as a complete Internet ecosystem for civilian entrepreneurship. It emphasizes the value of WeChat's features like Moments, Video Channels, and upcoming live streaming as business tools. It aims to cultivate local content creators and service providers, forming a community to help civilians earn money through legitimate means.",
-    "summary_zh": "本文探讨了微信作为一个完整的互联网生态系统对平民创业的巨大潜力，强调了微信朋友圈、视频号以及即将推出的直播等功能作为商业工具的价值，旨在培养本地内容创作者和服务提供者，形成一个社区，帮助平民通过正当途径赚钱。",
-    "best_quote_en": "WeChat has swallowed the entire world. WeChat is simply a complete Internet - a mobile Internet where everyone is present.",
-    "best_quote_zh": "微信吞噬了整个世界。微信干脆是个完整的互联网——所有人都在上面的移动互联网。"
+    "title": "Time Management Articles",
+    "title_zh": "时间管理文章列表",
+    "source": "土军杰的时间管理",
+    "link": "https://shijian.tujunjie.com/list",
+    "tags": ["time management", "productivity", "self-improvement"],
+    "tags_zh": ["时间管理", "生产力", "自我提升"],
+    "date": "",
+    "summary_en": "This website features a collection of articles focused on time management, covering topics such as efficient scheduling, habit formation, work-life balance, and practical strategies to improve time utilization. It provides readers with actionable tips to better manage their time and enhance productivity.",
+    "summary_zh": "该网站汇集了一系列关于时间管理的文章，内容涵盖高效日程安排、习惯养成、工作与生活平衡以及提升时间利用率的实用策略，为读者提供可操作的建议，帮助他们更好地管理时间并提高效率。",
+    "best_quote_en": "",
+    "best_quote_zh": ""
+},
+{
+    "id": 1,
+    "title": "What is 1000h.org?",
+    "title_zh": "什么是1000h.org？",
+    "source": "1000h.org",
+    "link": "https://1000h.org/what.html",
+    "tags": ["1000 hours", "learning project", "skill development"],
+    "tags_zh": ["1000小时", "学习项目", "技能发展"],
+    "date": "",
+    "summary_en": "This page explains the concept of 1000h.org, which focuses on the idea of dedicating 1000 hours to learning and mastering a specific skill. It emphasizes the value of consistent practice over time, encouraging individuals to commit to deliberate learning efforts to achieve proficiency in their chosen area.",
+    "summary_zh": "该页面阐释了1000h.org的理念，其核心是专注于投入1000小时学习并掌握特定技能。它强调了长期持续练习的价值，鼓励人们通过有意识的学习努力，在所选领域达到熟练水平。",
+    "best_quote_en": "1000 hours is a magic number. It's enough time to go from knowing nothing to being pretty good at almost anything.",
+    "best_quote_zh": "1000小时是一个神奇的数字。这段时间足够让你从一无所知变得在几乎任何事情上都相当出色。"
+},
+{
+    "id": 1,
+    "title": "Dribbble - Discover the World's Top Designers & Creative Professionals",
+    "title_zh": "Dribbble - 发现全球顶尖设计师和创意专业人士",
+    "source": "Dribbble",
+    "link": "https://dribbble.com/",
+    "tags": ["design", "creative community", "UI/UX", "graphic design"],
+    "tags_zh": ["设计", "创意社区", "用户界面/用户体验", "平面设计"],
+    "date": "",
+    "summary_en": "Dribbble is a leading online community for designers to showcase their creative work, connect with peers, and discover design inspiration. It features a wide range of design content including UI/UX designs, illustrations, animations, and graphic designs, serving as a platform for professionals to share projects, seek feedback, and explore design trends.",
+    "summary_zh": "Dribbble是一个领先的在线社区，供设计师展示其创意作品、与同行建立联系并获取设计灵感。它包含丰富的设计内容，包括UI/UX设计、插画、动画和平面设计，是专业人士分享项目、寻求反馈和探索设计趋势的平台。",
+    "best_quote_en": "Dribbble is where designers gain inspiration, feedback, community, and jobs and is home to the world's best design professionals.",
+    "best_quote_zh": "Dribbble是设计师获取灵感、反馈、社区和工作的地方，也是全球最优秀设计专业人士的家园。"
 }
 】
