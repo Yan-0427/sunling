@@ -1,4 +1,5 @@
 
+
 // 第2课优化版 app.js - 搜索体验优化
 // 主要改进：更友好的用户提示、更好的错误处理、代码注释
 
@@ -176,7 +177,7 @@ function applyAndRender() {
     render(view);
     // 彩蛋：输入 magic 试试看
     if (query === 'magic') {
-    alert('✨ 哇！你发现了隐藏功能！^_^');
+    alert('✨ 哇！^_^ 你发现了隐藏功能！');
 }
     renderSources(['all', ...new Set(raw.map(x => x.source))]);
  
