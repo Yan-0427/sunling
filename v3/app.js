@@ -417,14 +417,13 @@ function getTagStats(list) {
 function renderTags(list) {
   const lang = window.currentLang || 'zh';
   const tagsField = lang === 'zh' ? 'tags_zh' : 'tags';
-  const tagCounts = {};
+const tagCounts = {};
 list.forEach(item => {
   const itemTags = item[tagsField] || item.tags || [];
   itemTags.forEach(tag => {
     tagCounts[tag] = (tagCounts[tag] || 0) + 1;
   });
-});
-  
+});  
   // 统计每个标签的使用次数
   // TODO: 学员任务 - 实现标签统计功能
   // 提示：需要统计每个标签在当前列表中的使用次数
