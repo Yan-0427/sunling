@@ -417,7 +417,13 @@ function getTagStats(list) {
 function renderTags(list) {
   const lang = window.currentLang || 'zh';
   const tagsField = lang === 'zh' ? 'tags_zh' : 'tags';
-  const allTags = [...new Set(list.flatMap(item => item[tagsField] || item.tags || []))];
+  const tagCounts = {};
+list.forEach(item => {
+  const itemTags = item[tagsField] || item.tags || [];
+  itemTags.forEach(tag => {
+    tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+  });
+});
   
   // 统计每个标签的使用次数
   // TODO: 学员任务 - 实现标签统计功能
@@ -430,16 +436,18 @@ function renderTags(list) {
   const tags = [allText, ...allTags];
   
   // TODO: 学员任务 - 实现标签数量显示功能
+  const count = isAll ? list.length : (tagCounts[t] || 0);
   // 提示：需要在标签后面显示使用次数，格式如 "AI (15)"
   $('#tags').innerHTML = tags.map(t => {
     const isAll = t === allText;
     const tagValue = isAll ? 'all' : t;
     const isActive = activeTags.has(tagValue);
     // TODO: 在这里添加标签数量显示逻辑
-    return `<span class="tag ${isActive ? 'active' : ''}" data-tag="${esc(tagValue)}">${esc(t)}</span>`;
+  return `<span class="tag ${isActive ? 'active' : ''}" data-tag="${esc(tagValue)}">
+  ${esc(t)} <span class="tag-count">(${count})</span>
+</span>`;
   }).join('');
 }
-
 // 清除所有标签筛选
 function clearAllTags() {
   activeTags.clear();
