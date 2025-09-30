@@ -417,7 +417,7 @@ function getTagStats(list) {
 function renderTags(list) {
   const lang = window.currentLang || 'zh';
   const tagsField = lang === 'zh' ? 'tags_zh' : 'tags';
-const tagCounts = {};
+const allTags = [...new Set(list,flatMap(iten > item[tagsField] || item,tags || []))];
   
   // 统计每个标签的使用次数
   // TODO: 学员任务 - 实现标签统计功能
@@ -434,7 +434,9 @@ list.forEach(item => {
   // 添加"全部"选项
   const allText = lang === 'zh' ? '全部' : 'All';
   const tags = [allText, ...allTags];
+  
   // TODO: 学员任务 - 实现标签数量显示功能
+  
   // 提示：需要在标签后面显示使用次数，格式如 "AI (15)"
   $('#tags').innerHTML = tags.map(t => {
     const isAll = t === allText;
