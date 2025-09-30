@@ -62,7 +62,6 @@ async function init() {
   // 显示新手引导提示
   showWelcomeGuide();
 }
-
 async function loadData() {
   try {
     // 环境检测：根据URL路径判断是否在GitHub Pages环境
@@ -91,7 +90,6 @@ async function loadData() {
     throw error;
   }
 }
-
 function mountControls() {
   const lang = window.currentLang || 'zh';
   const texts = {
